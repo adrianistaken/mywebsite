@@ -54,8 +54,7 @@ const route = useRoute();
             <router-view></router-view>
 
             <!-- Footer -->
-            <footer
-                class="footer footer-horizontal footer-center bg-info text-base-content rounded p-10 absolute bottom-0">
+            <footer class="footer footer-horizontal footer-center bg-success text-base-content p-10 absolute bottom-0">
                 <nav>
                     <div class="grid grid-flow-col gap-4">
                         <a href="https://x.com/zzadrianzz_" target="_blank">
