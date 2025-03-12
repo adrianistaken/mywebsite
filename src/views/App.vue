@@ -4,7 +4,7 @@ const route = useRoute();
 </script>
 
 <template>
-    <div class="h-screen">
+    <div class="min-h-screen flex flex-col">
         <div class="mockup-browser border-base-300 border w-full h-full">
             <div class="mockup-browser-toolbar">
                 <div class="input">https://adrian.com{{ route.path !== '/' ? route.path : '' }}</div>
@@ -18,7 +18,7 @@ const route = useRoute();
                     <ul class="menu menu-horizontal px-1">
                         <li><router-link to="/software-engineer">Software Engineer</router-link></li>
                         <li><router-link to="/youtube">YouTube</router-link></li>
-                        <li><router-link to="/blog">Blog</router-link></li>
+                        <!-- <li><router-link to="/blog">Blog</router-link></li> -->
                         <li><router-link to="/about">About</router-link></li>
                     </ul>
                 </div>
@@ -44,17 +44,20 @@ const route = useRoute();
                     </div>
                 </div>
                 <div class="navbar-center">
-                    <a class="btn btn-ghost text-xl">Adrian</a>
+                    <router-link class="btn btn-ghost text-xl" to="/">Adrian</router-link>
                 </div>
                 <div class="navbar-end">
 
                 </div>
             </div>
+
             <!-- Main content -->
-            <router-view></router-view>
+            <div class="main-content-container flex-1 p-4">
+                <router-view></router-view>
+            </div>
 
             <!-- Footer -->
-            <footer class="footer footer-horizontal footer-center bg-success text-base-content p-10 absolute bottom-0">
+            <footer class="footer footer-horizontal footer-center bg-success text-base-content p-10 mt-auto">
                 <nav>
                     <div class="grid grid-flow-col gap-4">
                         <a href="https://x.com/zzadrianzz_" target="_blank">
@@ -88,4 +91,8 @@ const route = useRoute();
     </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.main-content-container {
+    min-height: calc(100vh - 215px);
+}
+</style>
