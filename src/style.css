@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@theme {
+  --breakpoint-xs: 450px;
+}
+
 @plugin "daisyui";
 
 @plugin "daisyui/theme" {
@@ -41,6 +45,6 @@
 
 body {
   margin: 0;
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-family: "Fredoka", sans-serif;
+  font-weight: 500;
 }
