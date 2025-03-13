@@ -1,7 +1,7 @@
 <template>
     <div class="max-w-2xl w-full m-auto p-6">
         <div class="flex flex-col">
-            <h2 class="py-3 text-2xl">Software Engineer</h2>
+            <h2 class="py-2 text-2xl">Software Engineer</h2>
             <div class="">
                 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif"
                     alt="Anime typing on computer gif"
@@ -20,7 +20,7 @@
             </div>
         </div>
 
-        <h2 class="py-3 text-2xl">What I've Worked On</h2>
+        <h2 class="mt-5 pb-2 text-2xl">What I've Worked On</h2>
         <div class="flex flex-col">
             <div class="bg-[#5f886d] p-3 text-success-content rounded-t">
                 <table>

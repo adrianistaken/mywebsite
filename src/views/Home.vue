@@ -4,7 +4,7 @@
             <h1 class="text-5xl font-bold">Hi, I'm Adrian</h1>
         </div>
         <div class="flex flex-col">
-            <h2 class="py-3 text-2xl">I build things.</h2>
+            <h2 class="py-2 text-2xl">I build things.</h2>
             <div class="">
                 <img src="https://i.gifer.com/8Yyg.gif" alt="Anime guy with computer gif"
                     class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-right xs:ml-3 xs:mb-3 xs:w-45 xs:h-30">
@@ -17,7 +17,7 @@
         </div>
 
         <div class="flex flex-col">
-            <h2 class="py-3 text-2xl">I learn things.</h2>
+            <h2 class="my-2 text-2xl">I learn things.</h2>
             <div class="">
                 <img src="https://i.pinimg.com/originals/10/d8/ba/10d8ba6db5fbe73ef31375870b481e16.gif"
                     alt="Anime girl at computer gif"
@@ -30,7 +30,7 @@
         </div>
 
         <div class="flex flex-col">
-            <h2 class="py-3 text-2xl">I teach things.</h2>
+            <h2 class="my-2 text-2xl">I teach things.</h2>
             <div class="">
                 <img src="https://i.pinimg.com/originals/a3/28/00/a3280086331589746635e698769c48a2.gif"
                     alt="Anime guy with glasses gif"
