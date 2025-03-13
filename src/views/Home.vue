@@ -43,7 +43,9 @@
             </div>
         </div>
 
-        <router-link to="/about"><button class="btn btn-info">Learn more about me</button></router-link>
+        <div class="text-center p-6">
+            <router-link to="/about"><button class="btn btn-info">Learn more about me</button></router-link>
+        </div>
     </div>
 </template>
 
