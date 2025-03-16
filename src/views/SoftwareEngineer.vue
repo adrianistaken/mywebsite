@@ -5,7 +5,7 @@
             <div class="">
                 <img src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif"
                     alt="Anime typing on computer gif"
-                    class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-left xs:mr-3 xs:mb-3 xs:w-45">
+                    class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-left xs:mr-3 xs:w-45">
                 <p class="font-normal mb-3">I'm a software engineer with a strong focus on frontend development,
                     building
                     intuitive and efficient applications. I enjoy creating tools that solve real problems, whether it's
@@ -49,7 +49,7 @@
                         </td>
                         <td>
                             <a href="https://recordings.com/" target="_blank"><span class="underline font-semibold">
-                                    Recordings</span></a> • <i>Full Stack Software Engineer</i><br />
+                                    Resonate Recordings</span></a> • <i>Full Stack Software Engineer</i><br />
                             <span>Podcast editing services and production platform</span>
                         </td>
                     </tr>

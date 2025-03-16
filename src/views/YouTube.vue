@@ -52,7 +52,7 @@
             <div class="">
                 <img src="https://i.pinimg.com/originals/97/21/e1/9721e113b62d2602ee3ebb6a82027538.gif"
                     alt="Anime camera zooming gif"
-                    class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-right xs:ml-3 xs:mb-3 xs:w-45">
+                    class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-right xs:ml-3 xs:w-45">
                 <p class="font-normal mb-3">I create in-depth, educational Dota 2 content on YouTube, breaking down
                     complex widely misunderstood or interesting mechanics and strategies to help players improve. With a
                     focus on clarity and insight, I make videos
