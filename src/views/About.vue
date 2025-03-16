@@ -1,27 +1,32 @@
 <template>
-    <div class="max-w-lg w-full m-auto p-6">
-        <h1 class="text-5xl font-bold">Who am I?</h1>
-        WIP DON'T LOOK
-        <!-- <p class="py-3">
-            Hey! I'm Adrian, a tech enthusiast who loves to tinker and build cool stuff. I spend most of
-            my days creating things, whether that's coding, YouTube videos, or game development. I'm all
-            about making things that not only look good but feel great to use/consume.
-        </p>
-        <h2 class="text-3xl font-bold">Free time?</h2>
-        <p class="py-3">
-            When I give myself some free time, you can probably find me playing Dota 2. I run an
-            educational YouTube channel where I dive deep into widely misunderstood and intersting
-            mechanics.
-        </p>
-        <h2 class="text-3xl font-bold">Learning and teaching</h2>
-        <p class="py-3">
-            I'm always up for learning new things, whether it's a new programming language or a game
-            development trick. I like to think of myself as a lifelong learner with a bit of a creative
-            streak. If you're the same, let's chat about it! I love learning from others :)
-        </p>
-        <h2 class="text-3xl font-bold">Connect with me</h2> -->
+    <div class="max-w-2xl w-full m-auto p-6">
+        <div class="flex flex-col">
+            <h2 class="py-2 text-2xl">About Me</h2>
+            <div class="">
+                <img src="https://i.pinimg.com/originals/a6/83/fa/a683fa17ef833109f538e38bba01d547.gif"
+                    alt="Anime typing on computer gif"
+                    class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-left xs:mr-3 xs:w-55">
+                <p class="font-normal mb-3">I'm a software engineer, content creator, and gamer who loves building,
+                    learning, and teaching. Whether it's coding useful and fun applications, creating in-depth
+                    educational Dota 2 videos, or experimenting with new skills, I'm always working on something that
+                    excites me.
+                </p>
+                <p class="font-normal">I enjoy solving problems—whether through software that enhances gameplay and
+                    productivity or by
+                    breaking down complex topics in a way that makes learning easy and engaging. My passion for
+                    improving and sharing knowledge drives everything I do, from developing tools and apps to coaching
+                    players and producing insightful content.
+                </p>
+                <p class="font-normal mt-3">If you're interested in gaming, software, or creative projects, you'll
+                    probably
+                    find something here
+                    that resonates with you.
+                </p>
 
-        <!-- <button class="btn btn-primary">Random button</button> -->
+            </div>
+        </div>
+
+        <!-- <router-link to="/about"><button class="btn btn-info">Learn more about me</button></router-link> -->
     </div>
 </template>
 
