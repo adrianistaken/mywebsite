@@ -4,10 +4,12 @@ import Blog from "../views/Blog.vue";
 import YouTube from "../views/YouTube.vue";
 import About from "../views/About.vue";
 import SoftwareEngineer from "../views/SoftwareEngineer.vue";
+import SinglePost from "../views/SinglePost.vue";
 
 const routes = [
   { path: "/", component: Home },
   { path: "/blog", component: Blog },
+  { path: "/blog/:slug", component: SinglePost },
   { path: "/youtube", component: YouTube },
   { path: "/about", component: About },
   { path: "/software-engineer", component: SoftwareEngineer },
