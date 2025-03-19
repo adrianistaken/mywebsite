@@ -18,7 +18,7 @@ const route = useRoute();
                     <ul class="menu menu-horizontal px-1">
                         <li><router-link to="/software-engineer">Software Engineer</router-link></li>
                         <li><router-link to="/youtube">YouTube</router-link></li>
-                        <li><router-link to="/blog">Blog</router-link></li>
+                        <!-- <li><router-link to="/blog">Blog</router-link></li> -->
                         <li><router-link to="/about">About</router-link></li>
                     </ul>
                 </div>
@@ -38,7 +38,7 @@ const route = useRoute();
                             class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
                             <li><router-link to="/software-engineer">Software Engineer</router-link></li>
                             <li><router-link to="/youtube">YouTube</router-link></li>
-                            <li><router-link to="/blog">Blog</router-link></li>
+                            <!-- <li><router-link to="/blog">Blog</router-link></li> -->
                             <li><router-link to="/about">About</router-link></li>
                         </ul>
                     </div>
