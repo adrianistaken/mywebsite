@@ -45,5 +45,14 @@ export default {
       title: 'Published At',
       type: 'datetime',
     },
+    {
+      name: 'tags',
+      title: 'Tags',
+      type: 'array',
+      of: [{type: 'string'}],
+      options: {
+        layout: 'tags', // Displays as tag-style input in Sanity Studio
+      },
+    },
   ],
 }
