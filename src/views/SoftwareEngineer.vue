@@ -48,7 +48,8 @@
                                 class="mr-4 w-12 rounded-full" />
                         </td>
                         <td>
-                            <a href="https://recordings.com/" target="_blank"><span class="underline font-semibold">
+                            <a href="https://resonaterecordings.com/" target="_blank"><span
+                                    class="underline font-semibold">
                                     Resonate Recordings</span></a> • <i>Full Stack Software Engineer</i><br />
                             <span>Podcast editing services and production platform</span>
                         </td>
