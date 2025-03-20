@@ -30,12 +30,23 @@ const customComponents = {
 </script>
 
 <template>
-    <div v-if="post">
-        <h1>{{ post.title }}</h1>
-        <p>{{ new Date(post.publishedAt).toLocaleDateString() }}</p>
-        <PortableText :value="post.content" :components="customComponents" />
+    <div class="max-w-2xl w-full m-auto p-6">
+        <div class="flex flex-col">
+
+            <div v-if="post">
+                <h1 class="text-2xl">{{ post.title }}</h1>
+                <p class="text-xl mb-3">{{ new Date(post.publishedAt).toLocaleDateString() }}</p>
+                <div class="font-normal">
+                    <PortableText :value="post.content" :components="customComponents" />
+                </div>
+            </div>
+            <p v-else>Loading...</p>
+        </div>
+
+        <!-- <router-link to="/about"><button class="btn btn-info">Learn more about me</button></router-link> -->
     </div>
-    <p v-else>Loading...</p>
+
+
 </template>
 
 <style scoped>
