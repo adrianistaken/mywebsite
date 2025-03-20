@@ -25,9 +25,11 @@
             <div class="bg-[#5f886d] p-3 text-success-content rounded-t">
                 <table>
                     <tr>
-                        <td class="w-17">
-                            <img src="https://i.ibb.co/gzfSzMX/resoundfm-logo.jpg" alt="Resound Logo"
-                                class="mr-4 w-12 rounded" />
+                        <td class="pr-4 w-17">
+                            <a href="https://www.resound.fm/" target="_blank">
+                                <img src="https://i.ibb.co/gzfSzMX/resoundfm-logo.jpg" alt="Resound Logo"
+                                    class="rounded" />
+                            </a>
                         </td>
                         <td>
                             <a href="https://www.resound.fm/" target="_blank"><span
@@ -43,9 +45,11 @@
             <div class="bg-[#8fa17b] p-3">
                 <table>
                     <tr>
-                        <td class="w-17">
-                            <img src="https://i.ibb.co/SyK5x1g/-logo.png" alt=" Recordings Logo"
-                                class="mr-4 w-12 rounded-full" />
+                        <td class="pr-4 w-17">
+                            <a href="https://resonaterecordings.com/" target="_blank">
+                                <img src="https://i.ibb.co/SyK5x1g/-logo.png" alt=" Recordings Logo"
+                                    class="rounded-full" />
+                            </a>
                         </td>
                         <td>
                             <a href="https://resonaterecordings.com/" target="_blank"><span
@@ -60,9 +64,11 @@
             <div class="bg-[#baa365] p-3">
                 <table>
                     <tr>
-                        <td class="w-17">
-                            <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"
-                                alt="Reddit Logo" class="mr-4 w-12" />
+                        <td class="pr-4 w-17">
+                            <a href="https://reddit-reader-wow.netlify.app/" target="_blank">
+                                <img src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png"
+                                    alt="Reddit Logo" />
+                            </a>
                         </td>
                         <td>
                             <a href="https://reddit-reader-wow.netlify.app/" target="_blank"><span
@@ -77,7 +83,7 @@
             <div class="bg-[#f09d30] p-3">
                 <table>
                     <tr>
-                        <td class="w-17">
+                        <td class="pr-4 w-17">
                             <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo"
                                 class="mr-4 w-12 rounded" />
                         </td>
@@ -93,10 +99,10 @@
             <div class="bg-[#fdc873] p-3">
                 <table>
                     <tr>
-                        <td class="w-17">
+                        <td class="pr-4 w-17">
                             <a href="https://zzadrianzz.github.io/PomodoroTimer/" target="_blank">
                                 <img src="https://raw.githubusercontent.com/zzADRiANzz/PomodoroTimer/main/images/wen-small-meow-cat-small.png"
-                                    alt="Pomodoro Timer Logo" class="mr-4 w-12" /></a>
+                                    alt="Pomodoro Timer Logo" /></a>
                         </td>
                         <td>
                             <a href="https://zzadrianzz.github.io/PomodoroTimer/" target="_blank"><span
@@ -112,9 +118,11 @@
             <div class="bg-[#f5906c] p-3 rounded-b">
                 <table>
                     <tr>
-                        <td class="w-17">
-                            <img src="https://i.ibb.co/GVsSHPS/Screenshot-2024-08-28-at-10-34-59-AM.png"
-                                alt="Twitch Chat Hangman Logo" class="mr-4 w-12 rounded" />
+                        <td class="pr-4 w-17">
+                            <a href="https://zzadrianzz.github.io/TwitchChatHangman/" target="_blank">
+                                <img src="https://i.ibb.co/GVsSHPS/Screenshot-2024-08-28-at-10-34-59-AM.png"
+                                    alt="Twitch Chat Hangman Logo" class="rounded" />
+                            </a>
                         </td>
                         <td>
                             <a href="https://zzadrianzz.github.io/TwitchChatHangman/" target="_blank"><span
