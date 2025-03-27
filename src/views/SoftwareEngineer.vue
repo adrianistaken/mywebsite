@@ -84,11 +84,15 @@
                 <table>
                     <tr>
                         <td class="pr-4 w-17">
-                            <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo"
-                                class="mr-4 w-12 rounded" />
+                            <a href="https://higherlowermusic.netlify.app/" target="_blank">
+                                <img src="https://i.ibb.co/C95g9Jb/icons8-music-120.png" alt="Higher Lower Music Logo"
+                                    class="mr-4 w-12 rounded" />
+                            </a>
                         </td>
                         <td>
-                            <span class="font-semibold">Higher Lower Music</span> • <i>Personal Project</i><br />
+                            <a href="https://higherlowermusic.netlify.app/" target="_blank"><span
+                                    class="underline font-semibold">Higher Lower
+                                    Music</span></a> • <i>Personal Project</i><br />
                             <span>Higher lower game based on music artists</span>
                         </td>
                     </tr>
