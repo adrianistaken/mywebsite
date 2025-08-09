@@ -14,7 +14,7 @@
                         </svg>
                     </div>
                     <div class="stat-title text-error">Total Views</div>
-                    <div class="stat-value text-error">5.3M</div>
+                    <div class="stat-value text-error">5.8M</div>
                     <!-- <div class="stat-desc">21% more than last month</div> -->
                 </div>
 
@@ -27,7 +27,7 @@
                         </svg>
                     </div>
                     <div class="stat-title text-info">Watch Hours</div>
-                    <div class="stat-value text-info">345k</div>
+                    <div class="stat-value text-info">384k</div>
                     <!-- <div class="stat-desc">21% more than last month</div> -->
                 </div>
 
@@ -43,7 +43,7 @@
                         </div>
                     </div>
                     <div class="stat-title text-success">Subscribers</div>
-                    <div class="stat-value text-success">39k</div>
+                    <div class="stat-value text-success">40k</div>
                     <!-- <div class="stat-desc text-secondary">31 tasks remaining</div> -->
                 </div>
             </div>
@@ -54,16 +54,28 @@
                     alt="Anime camera zooming gif"
                     class="w-4/5 h-full rounded float-none m-auto mb-2 xs:float-right xs:ml-3 xs:w-45">
                 <p class="font-normal mb-3">I create in-depth, educational Dota 2 content on YouTube, breaking down
-                    complex widely misunderstood or interesting mechanics and strategies to help players improve. With a
+                    complex widely misunderstood or interesting mechanics and strategies to help players improve.
+                    With a
                     focus on clarity and insight, I make videos
                     that analyze pro gameplay, explore key concepts, and share practical tips.
                 </p>
                 <p class="font-normal">Beyond Dota, I'm
                     passionate about content creation itself—constantly refining my editing, storytelling, and
-                    production skills. My goal is to make learning engaging and accessible while building a community of
+                    production skills. My goal is to make learning engaging and accessible while building a
+                    community of
                     like-minded players who love improving their game.
                 </p>
             </div>
+
+            <a href="https://www.youtube.com/@zzadrianzz" target="_blank" class="w-full text-center mt-5">
+                <button class="btn btn-active btn-primary mb-4 p-6 text-2xl w-full">
+                    Check it out!
+                    <svg width="25px" height="25px" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" fill="none">
+                        <path fill="#000000" fill-rule="evenodd"
+                            d="M18.885 2a1 1 0 00-1-1h-6a1 1 0 100 2h3.586L9.178 9.293a1 1 0 101.414 1.414l6.293-6.293V8a1 1 0 102 0V2zM3.009 3a2.012 2.012 0 00-1.998 2.218c.148 1.453.374 3.978.374 5.782 0 1.746-.212 4.17-.36 5.642a2.028 2.028 0 002.218 2.218c1.473-.148 3.896-.36 5.642-.36 1.804 0 4.33.226 5.782.374a2.012 2.012 0 002.218-1.998V12a1 1 0 10-2 0v4.878l-.003.003a.018.018 0 01-.006.003h-.006c-1.451-.147-4.068-.384-5.985-.384-1.857 0-4.37.222-5.842.37h-.008a.034.034 0 01-.012-.008.033.033 0 01-.008-.012.01.01 0 010-.002v-.006c.148-1.473.37-3.985.37-5.842 0-1.917-.237-4.534-.385-5.985v-.006l.004-.006A.016.016 0 013.007 5h4.878a1 1 0 000-2H3.009z" />
+                    </svg>
+                </button>
+            </a>
 
             <!-- Channel image -->
             <h2 class="mt-5 pb-2 text-2xl">100+ Educational Videos</h2>
@@ -72,6 +84,60 @@
                     <div class="parallax-image"></div>
                 </div>
             </a>
+
+            <!-- Favorite videos -->
+            <h2 class="mt-5 pb-2 text-2xl">Some of my faves</h2>
+            <div class="carousel carousel-center bg-[#baa365] rounded-box space-x-4 p-4 max-w-[100%]">
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/9ZLkSwZHZEM?si=vIbP5r_Kd4ijjnhJ" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/XHkcSB_s7ws?si=ICT-Cq-b9BTnivkp" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/tZPCcxEqyp4?si=WfN4zrEeOAz5iaO0" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/iJxG6In2Dp8?si=oabIqN7vx5y8joLP" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/-YoGiJtAnJQ?si=eaXJKC0BRJa2L2TQ" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/YgckjuZi_y0?si=3ru8pBk_xMZuSzK3" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+                <div class="carousel-item">
+                    <iframe class="rounded drop-shadow-md" width="560" height="315"
+                        src="https://www.youtube.com/embed/vQS91XC5MZU?si=zjJF6vFub0QKwgjH" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
 
             <!-- Streams -->
             <h2 class="mt-5 pb-2 text-2xl">Streams</h2>
@@ -120,8 +186,10 @@
                 </div>
                 <p class="font-normal">For those who want to dive deeper, I offer exclusive content and extra perks
                     through my Patreon and YouTube Memberships. Members get access to behind-the-scenes insights,
-                    in-depth hero learning videos, and special community events. I also provide coaching services for
-                    those looking to improve their Dota gameplay with personalized feedback. It's a great way to support
+                    in-depth hero learning videos, and special community events. I also provide coaching services
+                    for
+                    those looking to improve their Dota gameplay with personalized feedback. It's a great way to
+                    support
                     my work while getting even more value in return.</p>
             </div>
         </div>
