@@ -22,7 +22,27 @@
 
         <h2 class="mt-5 pb-2 text-2xl">What I've Worked On</h2>
         <div class="flex flex-col">
-            <div class="bg-[#5f886d] p-3 text-success-content rounded-t">
+            <div class="bg-[#487673] p-3 text-success-content rounded-t">
+                <table>
+                    <tr>
+                        <td class="pr-4 w-17">
+                            <a href="https://workonclimate.org/" target="_blank">
+                                <img src="https://workonclimate.org/wp-content/uploads/2023/04/cropped-Social2-e1681411999360.png"
+                                    alt=" Work on Climate Logo" class="rounded-full" />
+                            </a>
+                        </td>
+                        <td>
+                            <a href="https://workonclimate.org/" target="_blank"><span
+                                    class="underline font-semibold text-2xl">
+                                    Work on Climate</span></a> • <i>Volunteer Software Engineer</i><br />
+                            <span>Mobilizing humanity's talent to build a regenerative green economy.
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="bg-[#5f886d] p-3 text-success-content">
                 <table>
                     <tr>
                         <td class="pr-4 w-17">
@@ -33,7 +53,7 @@
                         </td>
                         <td>
                             <a href="https://www.resound.fm/" target="_blank"><span
-                                    class="underline font-semibold">Resound</span></a>
+                                    class="underline font-semibold text-2xl">Resound</span></a>
                             • <i>Full Stack
                                 Software Engineer</i><br />
                             <span>Artificial Intelligence podcast editing tool</span>
@@ -53,7 +73,7 @@
                         </td>
                         <td>
                             <a href="https://resonaterecordings.com/" target="_blank"><span
-                                    class="underline font-semibold">
+                                    class="underline font-semibold text-2xl">
                                     Resonate Recordings</span></a> • <i>Full Stack Software Engineer</i><br />
                             <span>Podcast editing services and production platform</span>
                         </td>
@@ -72,7 +92,7 @@
                         </td>
                         <td>
                             <a href="https://reddit-reader-wow.netlify.app/" target="_blank"><span
-                                    class="underline font-semibold">Reddit
+                                    class="underline font-semibold text-2xl">Reddit
                                     Reader</span></a> • <i>Personal Project</i><br />
                             <span>View posts that you care about from your favorite subreddit</span>
                         </td>
@@ -91,7 +111,7 @@
                         </td>
                         <td>
                             <a href="https://higherlowermusic.com/" target="_blank"><span
-                                    class="underline font-semibold">Higher Lower
+                                    class="underline font-semibold text-2xl">Higher Lower
                                     Music</span></a> • <i>Personal Project</i><br />
                             <span>Higher lower game based on music artists</span>
                         </td>
@@ -110,7 +130,7 @@
                         </td>
                         <td>
                             <a href="https://zzadrianzz.github.io/PomodoroTimer/" target="_blank"><span
-                                    class="underline font-semibold">Pomodoro
+                                    class="underline font-semibold text-2xl">Pomodoro
                                     Timer</span></a> • <i>Personal Project</i><br />
                             <span>Simple and cute Pomodoro timer</span>
                         </td>
@@ -130,7 +150,7 @@
                         </td>
                         <td>
                             <a href="https://zzadrianzz.github.io/TwitchChatHangman/" target="_blank"><span
-                                    class="underline font-semibold">Twitch Chat
+                                    class="underline font-semibold text-2xl">Twitch Chat
                                     Hangman</span></a> • <i>Personal Project</i><br />
                             <span>Classic hangman game with Twitch chat</span>
                         </td>
@@ -143,7 +163,7 @@
         <div class="flex mt-8 justify-around items-center">
             <div class="text-center">
                 <img src="https://www.svgrepo.com/show/489645/cv.svg" alt="" class="w-15 m-auto" />
-                <a href="https://drive.google.com/file/d/1pWtXPh4q7_mCB5c8Y--S-pUJwyCdmdd2/view" target="_blank"
+                <a href="https://drive.google.com/file/d/1i5V7beQ-ve2MCf_VA8K-QV-lY7CV8Kf0/view" target="_blank"
                     class="btn btn-primary mt-2 cursor-pointer inline-block px-4 py-2 rounded">
                     Resume
                 </a>
