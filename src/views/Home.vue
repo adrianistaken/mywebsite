@@ -3,7 +3,7 @@
         <div class="text-center">
             <!-- <h1 class="text-5xl font-bold">Hi, I'm Adrian</h1> -->
             <h1 class="text-4xl font-bold mb-8 xs:text-5xl">
-                <span class="bg-[#5f886d] p-2 rounded-l text-success-content">Hi,</span>
+                <span class="bg-[#5f886d] p-2 rounded-l text-success-content">Hey!</span>
                 <span class="bg-[#f09d30] p-2">I'm</span>
                 <span class="bg-[#f5906c] p-2 rounded-r">Adrian</span>
             </h1>
