@@ -7,7 +7,7 @@ const route = useRoute();
     <div class="min-h-screen flex flex-col">
         <div class="mockup-browser border-base-300 border w-full h-full">
             <div class="mockup-browser-toolbar">
-                <div class="input">https://adrian.com{{ route.path !== '/' ? route.path : '' }}</div>
+                <div class="input">https://heyadrian.dev{{ route.path !== '/' ? route.path : '' }}</div>
             </div>
             <!-- Navbar large -->
             <div class="navbar bg-neutral shadow-sm hidden md:flex">
