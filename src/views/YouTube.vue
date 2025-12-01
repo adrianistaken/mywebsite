@@ -14,7 +14,7 @@
                         </svg>
                     </div>
                     <div class="stat-title text-error">Total Views</div>
-                    <div class="stat-value text-error">5.8M</div>
+                    <div class="stat-value text-error">6.5M</div>
                     <!-- <div class="stat-desc">21% more than last month</div> -->
                 </div>
 
@@ -27,7 +27,7 @@
                         </svg>
                     </div>
                     <div class="stat-title text-info">Watch Hours</div>
-                    <div class="stat-value text-info">384k</div>
+                    <div class="stat-value text-info">437k</div>
                     <!-- <div class="stat-desc">21% more than last month</div> -->
                 </div>
 
@@ -43,7 +43,7 @@
                         </div>
                     </div>
                     <div class="stat-title text-success">Subscribers</div>
-                    <div class="stat-value text-success">40k</div>
+                    <div class="stat-value text-success">44k</div>
                     <!-- <div class="stat-desc text-secondary">31 tasks remaining</div> -->
                 </div>
             </div>
