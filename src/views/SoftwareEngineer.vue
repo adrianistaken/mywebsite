@@ -163,7 +163,7 @@
         <div class="flex mt-8 justify-around items-center">
             <div class="text-center">
                 <img src="https://www.svgrepo.com/show/489645/cv.svg" alt="" class="w-15 m-auto" />
-                <a href="https://drive.google.com/file/d/1i5V7beQ-ve2MCf_VA8K-QV-lY7CV8Kf0/view" target="_blank"
+                <a href="https://drive.google.com/file/d/16yq8HtSZBw9qVGVYoPIA6iUFLfcJExKe/view" target="_blank"
                     class="btn btn-primary mt-2 cursor-pointer inline-block px-4 py-2 rounded">
                     Resume
                 </a>
