@@ -22,7 +22,27 @@
 
         <h2 class="mt-5 pb-2 text-2xl">What I've Worked On</h2>
         <div class="flex flex-col">
-            <div class="bg-[#487673] p-3 text-success-content rounded-t">
+            <div class="bg-[#496276] p-3 text-success-content rounded-t">
+                <table>
+                    <tr>
+                        <td class="pr-4 w-17">
+                            <a href="https://wilbergroup.com/" target="_blank">
+                                <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFvMTzVCfSDkA/company-logo_200_200/company-logo_200_200/0/1638395847316/wilbergroup_logo?e=2147483647&v=beta&t=d250qoEm4B9IHje9NQH1NQKQ59Fjd0J1Om9XyOW_VAY"
+                                    alt=" Wilber Logo" class="rounded-full" />
+                            </a>
+                        </td>
+                        <td>
+                            <a href="https://wilbergroup.com/" target="_blank"><span
+                                    class="underline font-semibold text-2xl">
+                                    Wilber Group</span></a> • <i>Software Developer</i><br />
+                            <span>One of the nation's top subrogation recovery law firms.
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="bg-[#487673] p-3 text-success-content">
                 <table>
                     <tr>
                         <td class="pr-4 w-17">
