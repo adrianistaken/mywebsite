@@ -46,13 +46,13 @@
                 <table>
                     <tr>
                         <td class="pr-4 w-17">
-                            <a href="https://dota-map-drawing.vercel.app/" target="_blank">
+                            <a href="https://dota2mapdrawing.com/" target="_blank">
                                 <img src="https://images.seeklogo.com/logo-png/28/3/dota-2-logo-png_seeklogo-284923.png"
                                     alt=" Dota 2 Logo" class="rounded-full" />
                             </a>
                         </td>
                         <td>
-                            <a href="https://dota-map-drawing.vercel.app/" target="_blank"><span
+                            <a href="https://dota2mapdrawing.com/" target="_blank"><span
                                     class="underline font-semibold text-2xl">
                                     Dota Map Drawing</span></a> • <i>Personal Project</i><br />
                             <span>Dota 2 minimap online for strategic planning.

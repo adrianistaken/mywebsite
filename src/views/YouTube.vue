@@ -14,7 +14,7 @@
                         </svg>
                     </div>
                     <div class="stat-title text-error">Total Views</div>
-                    <div class="stat-value text-error">6.5M</div>
+                    <div class="stat-value text-error">8.2M</div>
                     <!-- <div class="stat-desc">21% more than last month</div> -->
                 </div>
 
@@ -27,7 +27,7 @@
                         </svg>
                     </div>
                     <div class="stat-title text-info">Watch Hours</div>
-                    <div class="stat-value text-info">437k</div>
+                    <div class="stat-value text-info">471k</div>
                     <!-- <div class="stat-desc">21% more than last month</div> -->
                 </div>
 
@@ -43,7 +43,7 @@
                         </div>
                     </div>
                     <div class="stat-title text-success">Subscribers</div>
-                    <div class="stat-value text-success">44k</div>
+                    <div class="stat-value text-success">46k</div>
                     <!-- <div class="stat-desc text-secondary">31 tasks remaining</div> -->
                 </div>
             </div>
@@ -114,7 +114,6 @@
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    asd
                     <div class="carousel-item flex-none w-full snap-start relative">
                         <iframe class="rounded drop-shadow-md w-full" width="560" height="350"
                             src="https://www.youtube.com/embed/iJxG6In2Dp8?si=oabIqN7vx5y8joLP"
