@@ -19,7 +19,7 @@ const route = useRoute();
                         <li><router-link to="/software-engineer">Software Engineer</router-link></li>
                         <li><router-link to="/youtube">YouTube</router-link></li>
                         <!-- <li><router-link to="/blog">Blog</router-link></li> -->
-                        <li><router-link to="/about">About</router-link></li>
+                        <!-- <li><router-link to="/about">About</router-link></li> -->
                     </ul>
                 </div>
             </div>
@@ -39,7 +39,7 @@ const route = useRoute();
                             <li><router-link to="/software-engineer">Software Engineer</router-link></li>
                             <li><router-link to="/youtube">YouTube</router-link></li>
                             <!-- <li><router-link to="/blog">Blog</router-link></li> -->
-                            <li><router-link to="/about">About</router-link></li>
+                            <!-- <li><router-link to="/about">About</router-link></li> -->
                         </ul>
                     </div>
                 </div>
