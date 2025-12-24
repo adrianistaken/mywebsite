@@ -114,7 +114,6 @@
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
-                    asd
                     <div class="carousel-item flex-none w-full snap-start relative">
                         <iframe class="rounded drop-shadow-md w-full" width="560" height="350"
                             src="https://www.youtube.com/embed/iJxG6In2Dp8?si=oabIqN7vx5y8joLP"
